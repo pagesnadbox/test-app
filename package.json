@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pagesandbox-cli": "^0.0.8"
+    "pagesandbox-cli": "^0.0.13"
   }
 }
